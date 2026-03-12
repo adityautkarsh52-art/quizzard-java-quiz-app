@@ -1,0 +1,71 @@
+When is the object created with new keyword?
+        At run time
+        At compile time
+        Depends on the code
+        None
+	At run time
+
+        Which of the following is true about the transient keyword in Java?
+        It makes a variable constant
+        It allows a variable to be accessed globally
+        It prevents a variable from being serialized
+        It allows faster access to variables
+	It prevents a variable from being serialized
+
+        When an array is passed to a method, what does the method receive?
+        The reference of the array
+        A copy of the array
+        Length of the array
+        Copy of first element
+	The reference of the array
+
+	Which functional interface is used in Java to implement a lambda expression that takes no parameters and returns a value?
+        Consumer
+        Supplier
+        Predicate
+        Function
+        Supplier
+
+        Identify the corrected definition of a package?
+        A package is a collection of editing tools
+        A package is a collection of Classes
+        A package is a collection of Classes and interfaces
+        A package is a collection of interfaces
+        A package is a collection of Classes and interfaces
+
+        In Java, which class loader loads the core Java classes (e.g., java.lang.*)?
+        System class loader
+        Application class loader
+        Bootstrap class loader
+        Extension class loader
+	Bootstrap class loader
+
+        What is the effect of calling Thread.sleep(0) in Java?
+        Throws IllegalArgumentException
+        Causes the thread to pause indefinitely
+        Has no effect
+        Yields the processor to other threads
+	Yields the processor to other threads
+
+        Which of the following does not override the equals() method from the Object class?";
+        java.lang.String
+        java.util.HashSet
+        java.util.ArrayList
+        java.lang.StringBuilder
+	java.lang.StringBuilder
+
+        Which of these features allows Java to support memory-efficient communication between threads?
+        Volatile keyword
+        Synchronized blocks
+        ThreadLocal variables
+        wait/notify mechanism
+	wait/notify mechanism
+
+        What exception is thrown when a negative size is passed to an array in Java?
+        ArrayIndexOutOfBoundsException
+        NegativeArraySizeException
+        IndexOutOfBoundsException
+        IllegalArgumentException
+	NegativeArraySizeException
+	
+

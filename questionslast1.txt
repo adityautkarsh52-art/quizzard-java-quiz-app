@@ -1,0 +1,69 @@
+To which of the following does the class string belong to?
+        java.lang
+        java.awt
+        java.applet
+        java.String
+	java.lang
+
+        Which of these classes is synchronized in Java?
+        Arraylist
+        Hashmap
+        StringBuffer
+        StringBuilder
+	StringBuffer
+
+        Which of these is not a Java keyword?
+        static
+        try
+        integer
+        final
+	integer
+
+        What will happen if we try to run a class that does not have a main method?
+        Run-time error
+        Compile-time error
+        It runs normally
+        It throws an exception
+	Run-time error
+
+        What is the default value of a boolean variable in Java?
+        true
+        false
+        0
+        Null
+	false
+
+        Which of the following is used to achieve runtime polymorphism in Java?
+        Method Overloading
+        Inheritance
+        Method overriding
+        Constructor overloading
+	Method overriding
+
+        What does the final keyword indicate when used with a method?
+        The method can't be inherited
+        The method can't be overridden
+        The method can't return a value
+        The method can be overridden only once
+	The method can't be overridden
+
+        Which of these statements is true about interfaces in Java?
+        They can have constructors
+        They cannot have any methods
+        They cannot extend other interfaces
+        They can contain static methods
+	They can contain static methods
+
+        What is the size of an int variable in Java?
+        2 bytes
+        4 bytes
+        8 bytes
+        depends on the system
+	4 bytes
+
+        What exception is thrown when a negative size is passed to an array in Java?
+        ArrayIndexOutOfBoundsException
+        NegativeArraySizeException
+        IndexOutOfBoundsException
+        IllegalArgumentException
+	NegativeArraySizeException

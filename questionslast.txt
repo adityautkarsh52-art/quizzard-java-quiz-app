@@ -1,0 +1,70 @@
+ Number of primitive data types in Java are?
+        6
+        7
+        8
+        9
+	8
+
+        What is the size of float and double in java?
+        32 and 64
+        32 and 32
+        64 and 64
+        64 and 32
+	32 and 64
+
+        Automatic type conversion is possible in which of the possible cases?
+        Byte to int
+        Int to Long
+        Long to int
+        Short to int
+	Int to Long
+
+        When an array is passed to a method, what does the method receive?
+        The reference of the array
+        A copy of the array
+        Length of the array
+        Copy of first element
+	The reference of the array
+
+        Arrays in java are?
+        Object References
+        Objects
+        Primitive data type
+        None
+	Objects
+
+        When is the object created with new keyword?
+        At run time
+        At compile time
+        Depends on the code
+        None
+	At run time
+
+        Identify the corrected definition of a package?
+        A package is a collection of editing tools
+        A package is a collection of Classes
+        A package is a collection of Classes and interfaces
+        A package is a collection of interfaces
+        A package is a collection of Classes and interfaces
+
+	compareTo() returns?
+        True
+        False
+        An int value
+        None
+	An int value
+
+        To which of the following does the class string belong to?
+        java.lang
+        java.awt
+        java.applet
+        java.String
+	java.lang
+
+        Total constructor string class have.?";
+        3
+        7
+        13
+        20
+	13
+        
